@@ -1,0 +1,105 @@
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEAlgorithm.exe
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\ref\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.exe
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\Users\monic\Desktop\AnIV\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\ref\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.exe
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\AN 4\SEM 1\EP\varianta2_proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\ref\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.exe
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\AN 4\SEM 1\EP\proiect\doar-monica\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\ref\DEAlgorithm.dll
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.dll
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.exe
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.dll
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\Users\monic\Desktop\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\ref\DEAlgorithm.dll
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.exe
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.dll
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.dll
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\AN 4\SEM 1\IA\git-proiect\Differential-Evolution\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\ref\DEAlgorithm.dll
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.exe
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.deps.json
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.runtimeconfig.json
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.dll
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\bin\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.AssemblyInfo.cs
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.dll
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\refint\DEAlgorithm.dll
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.pdb
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\DEAlgorithm.genruntimeconfig.cache
+C:\Users\Larisa\Downloads\Differential-Evolution-main\Differential-Evolution-main\DifferentialEvolutionAlgorithm\obj\Debug\net6.0\ref\DEAlgorithm.dll

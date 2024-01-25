@@ -1,0 +1,15 @@
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEForUrbanTransitRoutingProblem.exe
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEForUrbanTransitRoutingProblem.deps.json
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEForUrbanTransitRoutingProblem.runtimeconfig.json
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEForUrbanTransitRoutingProblem.dll
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\bin\Debug\net6.0\DEForUrbanTransitRoutingProblem.pdb
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.csproj.AssemblyReference.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.AssemblyInfoInputs.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.AssemblyInfo.cs
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.csproj.CoreCompileInputs.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.dll
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\refint\DEForUrbanTransitRoutingProblem.dll
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.pdb
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\DEForUrbanTransitRoutingProblem.genruntimeconfig.cache
+C:\Users\monic\Desktop\AnIV\IA\DEForUrbanTransitRoutingProblem\obj\Debug\net6.0\ref\DEForUrbanTransitRoutingProblem.dll

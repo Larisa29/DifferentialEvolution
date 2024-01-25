@@ -1,0 +1,6 @@
+name symbol kcal Mg Ca
+carne_pui P 239 12 78
+carne_miel P 294 12 89
+carne_vita P 250 90 12
+carne_oaie P 200 12 76
+carne_iepure P 173 18 19

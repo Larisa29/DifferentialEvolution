@@ -1,0 +1,4 @@
+name symbol kcal Mg Ca
+cartofi_fierti C 90 30 12
+orez C 295 13 30
+paste C 400 10 5

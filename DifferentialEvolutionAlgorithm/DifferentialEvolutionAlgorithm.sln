@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEAlgorithm", "DEAlgorithm.csproj", "{1A9DAF95-1A42-4831-9A3A-AD60A52076BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferentialEvolutionUnitTests", "..\DifferentialEvolutionUnitTests\DifferentialEvolutionUnitTests.csproj", "{0FF2B559-0433-4617-9EC0-49FF76E06C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9DAF95-1A42-4831-9A3A-AD60A52076BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9DAF95-1A42-4831-9A3A-AD60A52076BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9DAF95-1A42-4831-9A3A-AD60A52076BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9DAF95-1A42-4831-9A3A-AD60A52076BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF2B559-0433-4617-9EC0-49FF76E06C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF2B559-0433-4617-9EC0-49FF76E06C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF2B559-0433-4617-9EC0-49FF76E06C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF2B559-0433-4617-9EC0-49FF76E06C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2FC41B-7125-4D69-A2AD-1B554BB6009E}
+	EndGlobalSection
+EndGlobal

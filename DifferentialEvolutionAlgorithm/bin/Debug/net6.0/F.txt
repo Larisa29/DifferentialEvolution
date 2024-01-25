@@ -1,0 +1,5 @@
+name symbol kcal Mg Ca
+banana F 89 89 16
+mar F 52 19 10
+piersica F 40 10 10
+pepene F 25 8 5

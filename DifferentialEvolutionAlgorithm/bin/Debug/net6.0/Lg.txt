@@ -1,0 +1,4 @@
+name symbol kcal Mg Ca
+rosie Lg 18 18 10
+castravete Lg 12 8 12
+ceapa Lg 40 28 10

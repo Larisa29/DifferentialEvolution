@@ -1,0 +1,4 @@
+name symbol kcal Mg Ca
+branza_slaba L 78 12 50
+iaurt_slab L 60 15 35
+smanatana L 120 40 40

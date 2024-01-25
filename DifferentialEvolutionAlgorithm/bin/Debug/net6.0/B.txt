@@ -1,0 +1,4 @@
+name symbol kcal Mg Ca
+coca_cola B 38 5 6
+caffe_latte B 70 2 8
+ceai B 2 0 1
